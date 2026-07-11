@@ -1,5 +1,9 @@
 # QGIS MCP
 
+FORK to add support for Hermes and Antigravity AI Agents and other improvements. Will be pushed to main as appropriate.
+
+---
+
 Connect [QGIS](https://qgis.org/) to [Claude AI](https://claude.ai/) through the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/), enabling Claude to directly control QGIS — manage layers, edit features, run processing algorithms, render maps, and more.
 
 102 MCP tools covering layer management, feature editing, processing, rendering, styling, layout & atlas authoring, cross-layer SQL, plugin development, and system management. Compatible with QGIS 3.28–4.x. Works with Claude Code, Codex CLI, Gemini CLI, opencode, Claude Desktop, Cursor, VS Code, Windsurf, Zed, and more.
